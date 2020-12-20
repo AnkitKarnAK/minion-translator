@@ -1,50 +1,50 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
 
-:root{
-    --primary-color:#ffff33;
-    
+:root {
+    --primary-color: #ffff33;
+
 }
 
-body{
-   
+body {
+
     font-family: 'Noto Sans JP', sans-serif;
-    margin:0px;
-    color:#333333;
+    margin: 0px;
+    color: #333333;
     background-color: #E5E7EB;
 }
 
-nav{
+nav {
     background-color: var(--primary-color);
     text-align: center;
     padding: 1rem;
 }
 
-.nav-png{
+.nav-png {
     max-width: 400px;
     display: block;
     margin: auto;
 
 }
 
-main{
+main {
     margin: auto;
     padding: 1rem;
     max-width: 800px;
 }
 
-textarea{
+textarea {
     border: 1px solid #333333;
     width: 80%;
     height: 15vh;
     display: block;
     padding: 1rem;
-    margin:1rem;
-    font-size:x-large;
+    margin: 1rem;
+    font-size: x-large;
     color: #333333;
     background-color: #F3F4F6;
 }
 
-button{
+button {
     background-color: var(--primary-color);
     border: 1.5px solid #333333;
     margin: 1rem;
@@ -52,23 +52,22 @@ button{
     font-size: large;
 }
 
-#output{
+#output {
     border: 1px solid #333333;
-    width:80%;
-    height:15vh;
+    width: 80%;
+    height: 15vh;
     display: block;
-    margin:1rem;
-    padding:1rem;
-    background-color:#F3F4f6 ;
-    font-size:larger;
+    margin: 1rem;
+    padding: 1rem;
+    background-color: #F3F4f6;
+    font-size: larger;
 }
 
-footer{
-   padding: 1rem;
-   background-color: var(--primary-color);
-   margin: auto;
-   text-align: center;
+footer {
+    padding: 1rem;
+    background-color: var(--primary-color);
+    margin: auto;
+    text-align: center;
 
 
 }
-
